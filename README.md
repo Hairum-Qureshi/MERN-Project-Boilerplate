@@ -13,7 +13,7 @@ This is a starter template for a full-stack MERN app using:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Hairum-Qureshi/MERN-Project-Boilerplate.git
 cd your-repo-name
 ```
 
