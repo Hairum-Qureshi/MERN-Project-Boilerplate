@@ -9,6 +9,7 @@ api/logs/
 api/dist/
 api/build/
 api/coverage/
+api/.DS_Store
 
 ###################
 # Frontend (React)
@@ -23,3 +24,4 @@ frontend/coverage/
 frontend/.next/
 frontend/.cache/
 frontend/.turbo/
+frontend/.DS_Store
